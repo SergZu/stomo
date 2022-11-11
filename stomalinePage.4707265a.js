@@ -1,0 +1,1 @@
+const e=document.getElementById("medicalArgeement"),t=document.getElementById("medialArgeementModal"),n=document.getElementById("medialArgeementCloseBtn");e.addEventListener("click",(()=>t.classList.add("open"))),n.addEventListener("click",(()=>t.classList.remove("open")));

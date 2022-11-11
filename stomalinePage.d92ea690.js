@@ -1,0 +1,1 @@
+const e=document.getElementById("burger"),t=document.getElementById("burgerItem"),s=document.getElementById("burder__menu");e.addEventListener("click",(()=>{t.classList.contains("active")?(t.classList.remove("active"),s.classList.remove("active")):(t.classList.add("active"),s.classList.add("active"))}));
